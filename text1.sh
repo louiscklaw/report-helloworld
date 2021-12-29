@@ -3,3 +3,4 @@
 set -ex
 
 echo 1
+2
